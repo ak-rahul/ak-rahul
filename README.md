@@ -22,7 +22,7 @@ Hi there! 👋 I'm AK Rahul, an aspiring software developer passionate about cre
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ak-rahul/ak-rahul/output/snake.svg" alt="Snake animation" />
 
 ###
 
