@@ -16,7 +16,7 @@ Hi there! 👋 I'm AK Rahul, a passionate Software Developer and AI enthusiast d
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-rahul&theme=dark&hide_border=false&layout=compact&count_private=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ak-rahul&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ak-rahul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
