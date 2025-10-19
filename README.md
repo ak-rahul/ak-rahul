@@ -12,7 +12,6 @@ Hi there! 👋 I'm AK Rahul, a passionate Software Developer and AI enthusiast d
 <img src="https://raw.githubusercontent.com/ak-rahul/ak-rahul/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ak-rahul&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=7200)<br/>
 ![](https://streak-stats.demolab.com?user=ak-rahul&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-rahul&theme=dark&hide_border=false&layout=compact&count_private=true)
 
