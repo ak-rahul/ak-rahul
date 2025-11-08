@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hi there! 👋 I'm AK Rahul, a passionate Software Developer and AI enthusiast driven by curiosity and creativity. I love transforming complex ideas into clean, functional, and scalable applications that make an impact.<br><br>💻 With hands-on experience in full-stack development, I specialize in crafting seamless user interfaces and building robust backends using modern frameworks like React, Next.js, Tailwind CSS, and Supabase.<br><br>🚀 I enjoy exploring areas such as AI-powered applications, data-driven systems, and real-time visualization tools, and have built projects like optimization-benchmarks, CloudCampus, BigBook, Steganography-Project, blending technology with innovation.<br><br>🌱 Beyond coding, I’m constantly learning new technologies, optimizing workflows, and exploring creative problem-solving approaches — whether it’s through building interactive UIs, writing clean Python packages, or architecting end-to-end systems.<br><br>📫 Let’s Connect:<br>I'm always open to collaborating on interesting projects, exchanging ideas, or contributing to open-source initiatives.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.k._.r.a.h.u.l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-a-k-8030b1257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akrahul@pg.cusat.ac.in) 
 
