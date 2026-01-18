@@ -9,6 +9,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ak-rahul&theme=dark&hide_border=false&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ak-rahul&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-rahul&theme=dark&hide_border=false&layout=compact&count_private=true)
 
 ## 🏆 GitHub Trophies
@@ -19,4 +20,3 @@
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=ak-rahul&label=Profile%20views&color=0e75b6&style=flat)
-
