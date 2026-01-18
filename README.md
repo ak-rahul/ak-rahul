@@ -12,8 +12,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-rahul&theme=dark&hide_border=false&layout=compact&count_private=true)
 
 
-## 🏆 GitHub Trophies
-![Metrics](https://github.com/ak-rahul/ak-rahul/blob/main/github-metrics.svg)
+
+## 🏆 GitHub Stats & Trophies
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak-rahul&theme=radical)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
