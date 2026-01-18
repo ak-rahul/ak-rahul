@@ -12,8 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ak-rahul&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-rahul&theme=dark&hide_border=false&layout=compact&count_private=true)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ak-rahul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Metrics](https://github.com/ak-rahul/ak-rahul/blob/main/github-metrics.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
