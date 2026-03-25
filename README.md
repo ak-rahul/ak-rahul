@@ -8,13 +8,14 @@
 <img src="https://raw.githubusercontent.com/ak-rahul/ak-rahul/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ak-rahul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-rahul&theme=dark&hide_border=false&layout=compact&count_private=true)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-rahul&theme=dark&hide_border=false" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ak-rahul&theme=dark&hide_border=false&show_icons=true&count_private=true" alt="GitHub Stats" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-rahul&theme=dark&hide_border=false&layout=compact&count_private=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak-rahul&theme=radical" alt="Profile Details" /> </p>
 
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ak-rahul&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-## 🏆 GitHub Stats & Trophies
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak-rahul&theme=radical)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
