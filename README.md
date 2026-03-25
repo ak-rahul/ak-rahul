@@ -8,13 +8,14 @@
 <img src="https://raw.githubusercontent.com/ak-rahul/ak-rahul/output/snake.svg" alt="Snake animation" />
 
 # 📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-rahul&theme=dark&hide_border=false" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ak-rahul&theme=dark&hide_border=false&show_icons=true&count_private=true" alt="GitHub Stats" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-rahul&theme=dark&hide_border=false&layout=compact&count_private=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak-rahul&theme=radical" alt="Profile Details" /> </p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-rahul&theme=dark&hide_border=false" alt="GitHub Streak" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ak-rahul&theme=dark&hide_border=false&show_icons=true&count_private=true" alt="GitHub Stats" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-rahul&theme=dark&hide_border=false&layout=compact&count_private=true" alt="Top Languages" /> </p>
 
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ak-rahul&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<p align="left">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ak-rahul&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
 
 
 ### ✍️ Random Dev Quote
