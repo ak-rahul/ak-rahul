@@ -13,8 +13,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ak-rahul&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ak-rahul&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
 
 
 
